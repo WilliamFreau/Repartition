@@ -1,4 +1,6 @@
 initialization
 initializeWidgets
 	self initWidgetCreation.
-	self initWidgetDefaultConfiguration. 
+	self initWidgetDefaultConfiguration.
+	self initWidgetFocusOrder.
+	self initWidgetPresenter.
