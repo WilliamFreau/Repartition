@@ -6,11 +6,11 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"label",
-		"buttonHappy",
-		"buttonNeutral",
-		"buttonBad"
+		"leftList",
+		"rightList",
+		"rightToLeft",
+		"leftToRight"
 	],
-	"name" : "FirstScreen",
+	"name" : "UIDoubleList",
 	"type" : "normal"
 }
