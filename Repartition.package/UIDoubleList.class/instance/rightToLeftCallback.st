@@ -3,7 +3,7 @@ rightToLeftCallback
 	|indexSelected itemSelected|
 	indexSelected := leftList getIndex.
 	
-	itemSelected := rightListModel at: indexSelected.
+	itemSelected := leftList listElementAt: indexSelected.
 	rightListModel remove: itemSelected.
 	rightList items: rightListModel asArray.
 	
