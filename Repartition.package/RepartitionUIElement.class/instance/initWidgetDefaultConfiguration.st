@@ -1,0 +1,3 @@
+initialization
+initWidgetDefaultConfiguration 
+	self subclassResponsibility 

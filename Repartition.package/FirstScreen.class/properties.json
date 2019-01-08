@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "RepartitionUIElement",
+	"category" : "Repartition-UI-Element",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"label",
+		"buttonHappy",
+		"buttonNeutral",
+		"buttonBad"
+	],
+	"name" : "FirstScreen",
+	"type" : "normal"
+}
