@@ -9,7 +9,9 @@
 		"leftList",
 		"rightList",
 		"rightToLeft",
-		"leftToRight"
+		"leftToRight",
+		"rightListModel",
+		"leftListModel"
 	],
 	"name" : "UIDoubleList",
 	"type" : "normal"

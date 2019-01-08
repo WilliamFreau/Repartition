@@ -7,4 +7,5 @@ defaultSpec
 			col newRow: [ :row | row add: #leftToRight ].
 			col newRow: [ :row | row add: #rightToLeft ].
 			 ];
-		newColumn: [ :col | col add: #rightList ]
+		newColumn: [ :col | col add: #rightList ];
+		yourself.
